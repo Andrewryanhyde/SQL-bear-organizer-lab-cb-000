@@ -1,10 +1,10 @@
 CREATE TABLE bears (
-    id INTEGER PRIMARY KEY 
+    id INTEGER PRIMARY KEY
     id INTEGER
-    name TEXT 
+    name TEXT
     age INTEGER
     gender char(1)("M"/"F")
-    color TEXT 
-    temperament TEXT 
+    color TEXT
+    temperament TEXT
     alive BOOLEAN 
 )
